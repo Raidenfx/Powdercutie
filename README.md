@@ -17,8 +17,8 @@
 
    
  <h1 style="font-size:300%;"><img src = "https://cdn.discordapp.com/emojis/812305547436883968.png?v=1" high="20px" width="40px"> Language and Tools</h1>
-          
-
+<i class="fa-brands fa-js" style="color: #FFD43B;">
+   
  <h1 style="font-size:300%;"><img src = "https://cdn.discordapp.com/emojis/812305547436883968.png?v=1" high="20px" width="40px"> GitHub Stats</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=powdercutie&show_icons=true&theme=dark&locale=en&layout=compact" alt="powdercutie" /></p>
