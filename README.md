@@ -1,9 +1,8 @@
-<h1>Hi there! <img src = "https://cdn.discordapp.com/emojis/625936333248004096.png?v=1" high="20px" width="30px"> <img src="https://komarev.com/ghpvc/?username=powdercutie&label=Number%20Visitors&color=5210fa" alt="crawlerparty" />
+<h1> #Hi there! I`m Powder# <img src = "https://cdn.discordapp.com/emojis/625936333248004096.png?v=1" high="20px" width="30px"> <img src="https://komarev.com/ghpvc/?username=powdercutie&label=Number%20Visitors&color=5210fa" alt="crawlerparty" />
 </h1>
 <p align="center">
     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Souify&theme=radical" />   
 </p>
-
 </body>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1332395955445567542?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/620600867816734742)
