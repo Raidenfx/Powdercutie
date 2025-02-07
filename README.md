@@ -24,6 +24,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=powdercutie&show_icons=true&theme=dark&locale=en&layout=compact" alt="powdercutie" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=powdercutie&show_icons=true&theme=dark&locale=en" alt="powdercutie" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=powdercutie&theme=dark" alt="powdercutie" /></p>
 
 
 
