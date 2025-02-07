@@ -16,7 +16,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=acarfx&show_icons=true&theme=dark&locale=en" alt="acarfx" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=acarfx&theme=dark" alt="acarfx" /></p>
+
 
 </br>
 
