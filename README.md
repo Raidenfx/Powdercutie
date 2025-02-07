@@ -1,6 +1,6 @@
 
 <h1> Hi there! I`m Powder <img src = "https://cdn.discordapp.com/emojis/625936333248004096.png?v=1" high="20px" width="30px"> <img src="https://komarev.com/ghpvc/?username=powdercutie&label=Number%20Visitors&color=5210fa" alt="powdercutie" />
-   <img alt="GitHub followers" src="https://img.shields.io/github/followers/:powdercutie">
+   <img alt="GitHub followers" src="https://img.shields.io/github/followers/:Powdercutie">
 
 </h1>
 <p align="center">
