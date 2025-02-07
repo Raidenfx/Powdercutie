@@ -7,7 +7,7 @@
 
  <h1 style="font-size:300%;"><img src = "https://cdn.discordapp.com/emojis/812305547436883968.png?v=1" high="20px" width="40px"> Social Media</h1>
 <a href="https://discord.com/users/975146275802599524" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-   <a href="https://instagram.com/kahvebutkahpe" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://instagram.com/powder" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://sptfy.com/Powder" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
 <!--
