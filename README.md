@@ -10,6 +10,17 @@
    <a href="https://instagram.com/powder" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://sptfy.com/Powder" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=acarfx&show_icons=true&theme=dark&locale=en&layout=compact" alt="acarfx" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=acarfx&show_icons=true&theme=dark&locale=en" alt="acarfx" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=acarfx&theme=dark" alt="acarfx" /></p>
+
+</br>
+
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ccodzyfd7fmuwfzxc3hrouei74&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>  
 <!--
 **Powdercutie/Powdercutie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
