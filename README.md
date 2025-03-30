@@ -1,5 +1,5 @@
 
-<h1> Hi there! I`m Powder <img src = "https://cdn.discordapp.com/emojis/625936333248004096.png?v=1" high="20px" width="30px"> <img src="https://komarev.com/ghpvc/?username=powdercutie&label=Number%20Visitors&color=5210fa" alt="Raidenfx" />
+<h1> Hi there! I`m Raiden <img src = "https://cdn.discordapp.com/emojis/625936333248004096.png?v=1" high="20px" width="30px"> <img src="https://komarev.com/ghpvc/?username=powdercutie&label=Number%20Visitors&color=5210fa" alt="Raidenfx" />
    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Raidenfx">
 
 </h1>
@@ -11,8 +11,8 @@
 
  <h1 style="font-size:300%;"><img src = "https://cdn.discordapp.com/emojis/812305547436883968.png?v=1" high="20px" width="40px"> Social Media</h1>
 <a href="https://discord.com/users/1332395955445567542" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-   <a href="https://instagram.com/powder" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://sptfy.com/Powder" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+   <a href="https://instagram.com/Raiden" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://sptfy.com/Raiden" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
    
  <h1 style="font-size:300%;"><img src = "https://cdn.discordapp.com/emojis/812305547436883968.png?v=1" high="20px" width="40px"> Language and Tools</h1>
