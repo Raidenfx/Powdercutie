@@ -29,9 +29,9 @@
                             <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
  <h1 style="font-size:300%;"><img src = "https://cdn.discordapp.com/emojis/812305547436883968.png?v=1" high="20px" width="40px"> GitHub Stats</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=powdercutie&show_icons=true&theme=dark&locale=en&layout=compact" alt="powdercutie" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raidenfx&show_icons=true&theme=dark&locale=en&layout=compact" alt="powdercutie" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=powdercutie&show_icons=true&theme=dark&locale=en" alt="powdercutie" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Raidenfx&show_icons=true&theme=dark&locale=en" alt="powdercutie" /></p>
 
 
 
